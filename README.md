@@ -83,11 +83,43 @@ graph TD
 
 ---
 
-## 🗺️ The Path Ahead
+## 📂 Folder Architecture
 
-- [ ] **Interactive Candlestick Engine**: Bringing desktop-class charting to mobile.
-- [ ] **AI-Driven Sentiment**: Real-time analysis of financial news streams.
-- [ ] **Advanced Biometrics**: Securing portfolio data with FaceID/Fingerprint.
+```text
+market-dashboard-app/
+├── 📂 .expo/             # Expo configuration and cache
+├── 📂 android/           # Native Android project (EAS Build generated)
+├── 📂 assets/            # App icons, splash screens, and static fonts
+├── 📂 src/
+│   ├── 📂 api/           # Axios instance and base client config
+│   ├── 📂 features/      # Feature-based modules (Dashboard, Details)
+│   ├── 📂 hooks/         # Shared hooks (useWatchlist, useMarketData)
+│   ├── 📂 navigation/    # Typed Stack & Tab navigators
+│   ├── 📂 services/      # Business logic and API service wrappers
+│   ├── 📂 types/         # Global TypeScript interfaces
+│   └── 📂 utils/         # Helper functions and formatters
+├── 📄 App.tsx            # Application entry point
+├── 📄 app.json           # Expo & EAS configuration
+└── 📄 README.md          # You are here
+```
+
+---
+
+## 🤝 How to Contribute
+
+Creative contributions are what make the open-source community such an amazing place!
+
+1.  **Fork** the Project
+2.  **Create** your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3.  **Commit** your Changes (`git commit -m 'Add some AmazingFeature'`)
+4.  **Push** to the Branch (`git push origin feature/AmazingFeature`)
+5.  **Open** a Pull Request
+
+---
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
