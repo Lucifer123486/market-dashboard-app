@@ -3,6 +3,11 @@
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)](https://tanstack.com/query)
+[![React Navigation](https://img.shields.io/badge/React_Navigation-6b52ad?style=for-the-badge&logo=react-navigation&logoColor=white)](https://reactnavigation.org/)
+[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
+[![MMKV](https://img.shields.io/badge/MMKV-000000?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/mrousavy/react-native-mmkv)
+[![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
 
 **A high-performance, real-time financial tracking application built with React Native and Expo.**
 
